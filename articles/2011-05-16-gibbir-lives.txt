@@ -2,7 +2,7 @@ title: Gibbir Lives
 author: Sleighter
 date: 2011/05/16
 
-Gibbir is an open source project to recreate the chan-style imageboard in a modern language. The basic feature set is already well defined. [[Wikipedia](http://en.wikipedia.org/wiki/Imageboard)] 
+Gibbir is an open source project to recreate the Futaba-style imageboard in a modern language. The basic feature set is already well defined. [[Wikipedia](http://en.wikipedia.org/wiki/Imageboard)] 
 
 Join the fun on [github](https://github.com/sleighter/gibbir)
 

@@ -1,12 +1,14 @@
 The supporting site for the most exciting project since the Manhattan Project.
 
-Gibbir is bringing the chan-style image board into the 21st century.
+Gibbir is bringing the Futaba-style image board into the 21st century. This is in contrast to Danbooru-style boards.
+http://en.wikipedia.org/wiki/Imageboard
 
+View the application source at
 https://github.com/sleighter/gibbir
 
 
 
-This site is based on...
+This site is to host static information about Gibbir and is currently based on...
 
 dorothy
 =======
@@ -16,4 +18,4 @@ A wonderful template for [toto](http://cloudhead.io/toto), the blogging engine.
 https://github.com/cloudhead/dorothy
 
 
-Thanks!
+Thanks cloudhead!
